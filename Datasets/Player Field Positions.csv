@@ -1,0 +1,14 @@
+﻿Position;Category;CategoryOrder;X;Y
+Centre-Forward;Forward;4;341,5;865
+Left Winger;Forward;4;181;735
+Right Winger;Forward;4;492;735
+Second Striker;Forward;4;341,5;760
+Centre-Back;Defender;2;341,5;260
+Left-Back;Defender;2;121;260
+Right-Back;Defender;2;562;260
+Goalkeeper;Goalkeeper;1;341,5;50
+Central Midfield;Midfielder;3;341,5;510
+Attacking Midfield;Midfielder;3;341,5;615
+Defensive Midfield;Midfielder;3;341,5;405
+Right Midfield;Midfielder;3;527;510
+Left Midfield;Midfielder;3;156;510
